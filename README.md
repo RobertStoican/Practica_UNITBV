@@ -4,4 +4,4 @@ Python este un limbaj de programare dinamic multi-paradigmă, creat în 1989 de 
 
 [Link catre pyhton](learnphyton.org) 
 
-![Sigla UNITBV](Sigla UNITBV.png)
+![Sigla UNITBV](Sigla_UNITBV.png)
